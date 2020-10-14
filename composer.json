@@ -1,36 +1,36 @@
 {
-    "name": "laravel-enso/control-panel",
-    "description": "A control panel that aggregates, controls and displays statistics from other laravel-enso apps",
+    "name": "genealogiawebsite/control-panel",
+    "description": "A control panel that aggregates, controls and displays statistics from other genealogiawebsite apps",
     "type": "project",
     "require": {
         "guzzlehttp/guzzle": "^6.3",
-        "laravel-enso/core": "^5.0|^6.0",
-        "laravel-enso/enums": "^2.0",
-        "laravel-enso/forms": "^4.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/permissions": "^4.0",
-        "laravel-enso/migrator": "^2.0",
-        "laravel-enso/control-panel-common": "^2.0",
-        "laravel-enso/tables": "^4.0"
+        "genealogiawebsite/core": "^5.0|^6.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/forms": "^4.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/permissions": "^4.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/control-panel-common": "^2.0",
+        "genealogiawebsite/tables": "^4.0"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Mihai Ocneanu",
             "email": "mihai.ocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         },
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         },
         {
             "name": "Reza Fouladi",
             "email": "raftx24@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
