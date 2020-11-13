@@ -3,6 +3,7 @@
     "description": "A control panel that aggregates, controls and displays statistics from other genealogiawebsite apps",
     "type": "project",
     "require": {
+<<<<<<< HEAD
         "guzzlehttp/guzzle": "^6.3",
         "genealogiawebsite/core": "^5.0|^6.0",
         "genealogiawebsite/enums": "^2.0",
@@ -12,6 +13,17 @@
         "genealogiawebsite/migrator": "^2.0",
         "genealogiawebsite/control-panel-common": "^2.0",
         "genealogiawebsite/tables": "^4.0"
+=======
+        "guzzlehttp/guzzle": "^7.0",
+        "genealogiawebsite/core": "^5.0|^6.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/forms": "^4.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/permissions": "^4.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/control-panel-common": "^2.0",
+        "genealogiawebsite/tables": "^4.0"
+>>>>>>> upstream/master
     },
     "license": "MIT",
     "authors": [
